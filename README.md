@@ -1,6 +1,6 @@
 # Kane Norman
 
-![Harvard Shield](./SEAS_IACS.png "Harvard Shield")
+![Harvard Shield](./h_seas_logo_rgb.png "Harvard Shield")
 
 
 My name is Kane, and I am currently pursing a masters degree in data science at Harvard University. Please feel free to browse my github repositories, personal website, and connect with me on  Linkedin.
