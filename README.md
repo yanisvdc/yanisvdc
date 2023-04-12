@@ -1,9 +1,15 @@
 ## About Me
 
-<img src="./h_seas_logo_rgb.png" align="right" width="300px"/>
+ <ul>
+    <img src="./h_seas_logo_rgb.png" align="right" style="width: 300px;">
+  <li>Currently pursing a master's in data science at Harvard University</li>
+  <li>Also, cross registered at MIT studying quantitative finance</li>
+  <li>Interested in Computer Science, Math, and Machine Learning</li>
+ </ul>
+ <br>
+   <img src="./mit-mgmt-sloan-school.png" align="right" style="width: 300px;">
 
-- Pursing a masters degree in data science at Harvard University (Class of December 2023).
-- Interested in Computer Science, Math, and ML
+
 
 ## Links
 
