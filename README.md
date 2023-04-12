@@ -1,17 +1,9 @@
-## About Me
-<img src="./h_seas_logo_rgb.png" align="right" width="300px"/>
+# Kane Norman
+
+![Harvard Shield](./h_seas_logo_rgb.png "Harvard Shield")
 
 
-- Pursing a masters degree in data science at Harvard University (Class of December 2023).
-- Interested in Computer Science, Math, and ML
+My name is Kane, and I am currently pursing a masters degree in data science at Harvard University. Please feel free to browse my github repositories, personal website, and connect with me on  Linkedin.
 
-
-## Links
-[![Personal Website](https://img.shields.io/badge/kanenorman.com-crimson?&style=for-the-badge)](https://kanenorman.com)
+[![Personal Website](https://img.shields.io/badge/kanenorman.com-white?&style=for-the-badge)](https://kanenorman.com)
 [![Linkedin](https://img.shields.io/badge/linkedin-blue?&style=for-the-badge)](https://www.linkedin.com/in/kanenorman/)
-
-## Stats
-
- <div align="left">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kanenorman" alt="Gift's LangStat" />
-</div>
