@@ -2,8 +2,9 @@
 
 <img src="./h_seas_logo_rgb.png" align="right" width="300px"/>
 
-- Pursing a masters degree in data science at Harvard University (Class of December 2023).
-- Interested in Computer Science, Math, and ML
+- Currently pursing a masters degree in data science at Harvard University (Class of December 2023).
+- Also, cross registered at MIT studying quantitative finance
+- Interested in Computer Science, Math, and Machine Learning
 
 ## Links
 
