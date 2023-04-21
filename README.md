@@ -7,9 +7,7 @@
   <li>Interested in Computer Science, Math, and Machine Learning</li>
  </ul>
  <br>
-   <img src="./mit-mgmt-sloan-school.png" align="right" style="width: 300px;">
-
-
+   <img src="./MIT-log.png" align="right" style="width: 300px;">
 
 ## Links
 
