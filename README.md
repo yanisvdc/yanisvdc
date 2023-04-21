@@ -1,13 +1,13 @@
 ## About Me
 
  <ul>
-    <img src="./h_seas_logo_rgb.png" align="right" style="width: 300px;">
+   <img src="./h_seas_logo_rgb.png" align="right" style="width: 300px;">
   <li>Currently pursing a master's in data science at Harvard University</li>
   <li>Also, cross registered at MIT studying quantitative finance</li>
   <li>Interested in Computer Science, Math, and Machine Learning</li>
  </ul>
  <br>
-   <img src="./MIT-log.png" align="right" style="width: 300px;">
+  <img src="./MIT-logo-black.png" align="right" style="width: 275px; height:50px;">
 
 ## Links
 
