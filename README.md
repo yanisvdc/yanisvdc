@@ -3,7 +3,7 @@
  <ul>
    <img src="./h_seas_logo_rgb.png" align="right" style="width: 300px;">
   <li>Currently pursing a master's in data science at Harvard University</li>
-  <li>Interested in Machine Learning, DeFi and Risk Management</li>
+  <li>Interested in Machine Learning, Statistics and Differential Privacy </li>
  </ul>
  <br>
 
