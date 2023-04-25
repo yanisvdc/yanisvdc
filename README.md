@@ -8,10 +8,10 @@
  <br>
 
 ## Links
-[![Linkedin](https://img.shields.io/badge/linkedin-blue?&style=for-the-badge)](https://www.linkedin.com/in/tadhg-looram-98849272/)
+[![Linkedin](https://img.shields.io/badge/linkedin-blue?&style=for-the-badge)](https://www.linkedin.com/in/yanis-vandecasteele/)
 
 ## Stats
 
  <div align="left">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tadhglooram93" alt="Gift's LangStat" />
+   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yanisvdc" alt="Gift's LangStat" />
 </div>
